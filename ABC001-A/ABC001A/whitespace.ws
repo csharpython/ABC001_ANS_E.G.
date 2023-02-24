@@ -1,13 +1,14 @@
-    
- 
-    	
-	
-			
-		   	
-			 
-					  		
- 	   	 	 
-	
-  
+   
+PUSH0 
+ DUP   	
+PUSH1	
+		READN	
+		READN   	
+PUSH1			LOAD 
+	SWAP			LOAD	  	SUB	
+ 	OUTN   	 	 
+PUSH10	
+  OUTC
 
 
+END
